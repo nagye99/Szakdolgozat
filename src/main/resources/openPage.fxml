@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="650.0" style="-fx-background-color: #243b73;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.OpenPageController">
+   <children>
+   <VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="650.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+      <children>
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+               <children>
+               <ComboBox fx:id="jarat" prefWidth="400.0" style="-fx-background-color: #ffff30;" />
+               </children>
+               <VBox.margin>
+                  <Insets bottom="25.0" />
+               </VBox.margin>
+            </HBox>
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <TextField fx:id="utas" prefWidth="275.0" promptText="Írja be hány utasnak szeretne foglalni!" style="-fx-background-color: #ffff30; -fx-prompt-text-fill: #333333;">
+                     <opaqueInsets>
+                        <Insets right="5.0" />
+                     </opaqueInsets>
+                     <HBox.margin>
+                        <Insets right="51.0" />
+                     </HBox.margin></TextField>
+                  <Button mnemonicParsing="false" onAction="#handleSaveButton" style="-fx-background-color: #ffff30;" text="Adatok mentése" />
+               </children>
+            </HBox>
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+               <children>
+               <Button mnemonicParsing="false" onAction="#handleCalculateButton" style="-fx-background-color: #ffff30;" text="Számolás indítása" />
+               </children>
+            </HBox>
+      </children>
+   </VBox>
+   </children>
+</AnchorPane>

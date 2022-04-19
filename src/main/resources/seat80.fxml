@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="300.0" prefWidth="750.0" style="-fx-background-color: #aaaaaa;" stylesheets="@seat.css" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.Seat80Controller">
+   <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#243b73" height="200.0" layoutX="13.0" layoutY="50.0" stroke="BLACK" strokeType="INSIDE" width="725.0" />
+   <StackPane fx:id="ules5" layoutX="42.0" layoutY="63.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules7" layoutX="70.0" layoutY="63.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules8" layoutX="71.0" layoutY="92.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules6" layoutX="43.0" layoutY="92.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules1" layoutX="42.0" layoutY="214.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules3" layoutX="71.0" layoutY="214.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules4" layoutX="71.0" layoutY="184.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules2" layoutX="42.0" layoutY="184.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules10" layoutX="110.0" layoutY="184.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules12" layoutX="140.0" layoutY="184.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules11" layoutX="140.0" layoutY="214.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules9" layoutX="110.0" layoutY="214.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules14" layoutX="110.0" layoutY="92.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules16" layoutX="140.0" layoutY="92.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules15" layoutX="140.0" layoutY="63.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules13" layoutX="110.0" layoutY="63.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules18" layoutX="181.0" layoutY="184.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules20" layoutX="211.0" layoutY="184.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules19" layoutX="211.0" layoutY="214.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules17" layoutX="181.0" layoutY="214.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules22" layoutX="181.0" layoutY="90.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules24" layoutX="211.0" layoutY="90.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules23" layoutX="211.0" layoutY="61.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules21" layoutX="181.0" layoutY="61.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules34" layoutX="314.0" layoutY="184.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules36" layoutX="342.0" layoutY="184.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules35" layoutX="342.0" layoutY="214.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules33" layoutX="314.0" layoutY="214.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules38" layoutX="314.0" layoutY="92.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules40" layoutX="342.0" layoutY="92.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules39" layoutX="342.0" layoutY="61.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules37" layoutX="314.0" layoutY="61.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules26" layoutX="248.0" layoutY="184.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules28" layoutX="276.0" layoutY="184.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules27" layoutX="276.0" layoutY="214.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules25" layoutX="248.0" layoutY="214.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules30" layoutX="248.0" layoutY="92.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules32" layoutX="276.0" layoutY="92.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules31" layoutX="276.0" layoutY="61.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules29" layoutX="248.0" layoutY="61.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules45" layoutX="383.0" layoutY="61.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules47" layoutX="412.0" layoutY="61.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules48" layoutX="413.0" layoutY="92.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules46" layoutX="384.0" layoutY="91.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules41" layoutX="383.0" layoutY="214.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules43" layoutX="411.0" layoutY="214.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules44" layoutX="411.0" layoutY="184.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules42" layoutX="383.0" layoutY="184.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules50" layoutX="450.0" layoutY="184.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules52" layoutX="480.0" layoutY="184.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules51" layoutX="480.0" layoutY="214.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules49" layoutX="450.0" layoutY="214.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules54" layoutX="452.0" layoutY="92.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules56" layoutX="482.0" layoutY="92.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules55" layoutX="481.0" layoutY="61.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules53" layoutX="451.0" layoutY="61.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules58" layoutX="521.0" layoutY="184.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules60" layoutX="551.0" layoutY="184.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules59" layoutX="551.0" layoutY="214.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules57" layoutX="521.0" layoutY="214.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules62" layoutX="523.0" layoutY="92.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules64" layoutX="553.0" layoutY="92.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules63" layoutX="552.0" layoutY="61.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules61" layoutX="522.0" layoutY="61.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules74" layoutX="654.0" layoutY="184.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules76" layoutX="682.0" layoutY="184.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules75" layoutX="682.0" layoutY="214.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules73" layoutX="654.0" layoutY="214.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules78" layoutX="656.0" layoutY="92.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules80" layoutX="684.0" layoutY="92.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules79" layoutX="683.0" layoutY="61.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules77" layoutX="655.0" layoutY="61.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules66" layoutX="588.0" layoutY="184.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules68" layoutX="616.0" layoutY="184.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules67" layoutX="616.0" layoutY="214.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules65" layoutX="588.0" layoutY="214.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules70" layoutX="590.0" layoutY="92.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules72" layoutX="618.0" layoutY="92.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules71" layoutX="617.0" layoutY="61.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+   <StackPane fx:id="ules69" layoutX="589.0" layoutY="61.0" prefHeight="25.0" prefWidth="25.0" styleClass="ules" stylesheets="@seat.css" />
+</AnchorPane>
